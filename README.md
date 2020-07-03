@@ -1,5 +1,4 @@
-# commonsense
-A Survey on Commonsense Knowledge 
+# A Survey on Commonsense Knowledge 
 
 # 2020
 2020 IJCAI - Transomcs From linguistic graphs to commonsense.pdf
